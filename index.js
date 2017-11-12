@@ -17,7 +17,7 @@ function iLoveTheBeatles(n) {
   var sum = []
   do {
     sum.push("I love the Beatles!")
-    n++)
+    n++
   } while (n < 15)
   return sum
 }
