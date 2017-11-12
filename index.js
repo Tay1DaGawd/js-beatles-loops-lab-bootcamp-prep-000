@@ -14,6 +14,7 @@ function johnLennonFacts(facts) {
   return facts
 }
 function iLoveTheBeatles(n) {
+  var sum = []
   do {
     sum[n] = "I love the Beatles!"
     n++
