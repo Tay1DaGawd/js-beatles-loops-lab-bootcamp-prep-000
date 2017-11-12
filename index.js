@@ -1,7 +1,7 @@
 function BeatlesLoops() {
 var theBeatlesPlay = []
   for (let i = 0, i<musicians.length, i++) {
-    array.push(musicians, instruments)
+    theBeatlesPlay.push(musicians, instruments)
   }
   return theBeatlesPlay
 }
