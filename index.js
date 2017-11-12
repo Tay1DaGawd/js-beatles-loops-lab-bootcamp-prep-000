@@ -14,9 +14,8 @@ function johnLennonFacts(facts) {
   return facts
 }
 function iLoveTheBeatles(n) {
-  var sum = []
   do {
-    sum.push("I love the Beatles!")
+    sum[n] = "I love the Beatles!"
     n++
   } while (n < 15)
   return sum
